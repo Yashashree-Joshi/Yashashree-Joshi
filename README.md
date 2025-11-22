@@ -35,11 +35,23 @@ I believe in engineering with empathy, and that mindset shapes everything I crea
 
 ## Connect With Me 📲
 <p align="left">
-<a href="mailto:writetoyashashree@gmail.com"> <img src="https://www.svgrepo.com/show/223047/email.svg" width="40" height="40" alt="email"/></a>
-<a href="https://www.linkedin.com/in/yashashree-joshi-1706832b1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="linkedin"/></a>
-<a href="https://www.kaggle.com/yashashree01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="kaggle"/></a>
-<a href="https://www.hackerrank.com/profile/yashashree0102"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="hackerrank"/></a>
+<a href="mailto:writetoyashashree@gmail.com">
+  <img src="https://www.svgrepo.com/show/349378/mail.svg" width="40" height="40" alt="email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashashree-joshi-1706832b1/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="linkedin"/>
+</a>
+
+<a href="https://www.kaggle.com/yashashree01">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="kaggle"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/yashashree0102">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="hackerrank"/>
+</a>
 </p>
+
 
 
 
