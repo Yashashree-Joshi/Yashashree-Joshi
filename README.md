@@ -36,7 +36,7 @@ I believe in engineering with empathy, and that mindset shapes everything I crea
 ## Connect With Me 📲
 <p align="left">
 <a href="mailto:writetoyashashree@gmail.com">
-  <img src="https://www.svgrepo.com/show/349378/mail.svg" width="40" height="40" alt="email"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yashashree-joshi-1706832b1/">
