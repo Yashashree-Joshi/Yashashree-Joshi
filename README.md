@@ -4,8 +4,8 @@
 I’m curious, hardworking, and always excited to explore how technology can genuinely help people.
 I love turning ideas into practical tools and building projects that make a difference from healthcare to sustainability to everyday automation ✨
 
-I’m passionate about building human-centred tech that solves real-world problems.
-My work focuses on assistive systems, automation, and meaningful software especially in areas where technology can make everyday life easier, safer, and more organised.
+I’m passionate about building human centred tech that solves real-world problems.
+My work focuses on assistive systems, automation, and meaningful software especially in areas where technology can make everyday life easier, safer, more organised and help the those in need and act as bridge connecting different perspectives.
 
 I believe in engineering with empathy, and that mindset shapes everything I create 🌱✨
 
